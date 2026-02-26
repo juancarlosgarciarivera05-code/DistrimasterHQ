@@ -1,0 +1,9 @@
+{
+  "name": "DistriMaster HQ",
+  "description": "Plataforma inteligente de logística y distribución SFA impulsada por IA Gemini. v22.0.2-SYNC-TEST. Visítanos en distrimasterhq.site",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
